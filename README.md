@@ -2,9 +2,9 @@
 
 ### 💻 Computer Science Undergraduate | Software Developer | AI/ML Enthusiast
 
-I'm a **Computer Science undergraduate at the University of Jaffna** passionate about building practical software, AI-powered applications, and full-stack systems.
+I'm a Computer Science undergraduate passionate about building **real-world software, AI-powered solutions, and scalable full-stack applications**.
 
-I enjoy turning ideas into working products — from designing interfaces and developing APIs to working with databases, AI/ML models, and deployment technologies.
+I enjoy taking ideas from concept to implementation — designing the frontend, developing backend systems and APIs, working with databases, and exploring how **AI/ML and cloud technologies** can make applications smarter and more useful.
 
 ---
 
@@ -17,207 +17,235 @@ role: Computer Science Undergraduate & Software Developer
 focus:
   - Full-Stack Development
   - Artificial Intelligence & Machine Learning
-  - Computer Vision
-  - Software Engineering
   - Cloud & DevOps
+  - Software Engineering
 
 currently:
-  - Building full-stack applications
-  - Exploring AI/ML
-  - Working on deepfake detection research
-  - Improving cloud and DevOps skills
-  - Learning system design
+  learning:
+    - AI / Machine Learning
+    - Cloud & DevOps
+    - System Design
+    - Modern Web Technologies
 
 interested_in:
   - AI-powered applications
+  - Scalable web systems
   - Computer Vision
-  - Intelligent systems
-  - Scalable web applications
-  - Mobile & low-resource AI
+  - Intelligent automation
+  - Mobile & low-resource ML
 
 open_to:
-  - Software Engineering Opportunities
+  - Software Engineering Internships
   - AI / ML Opportunities
   - Freelance Projects
   - Collaboration
 ```
 
 🎓 **BSc (Hons) in Computer Science** — University of Jaffna
-💻 Software Developer focused on building practical applications
-🤖 Interested in **AI/ML, Computer Vision and intelligent systems**
-🌐 Full-Stack Developer experienced with modern web technologies
-☁️ Exploring **Cloud, DevOps and scalable architectures**
-🔬 Undergraduate researcher working on **lightweight deepfake detection**
+💻 Software Developer passionate about building practical applications
+🤖 Exploring **AI/ML, Computer Vision and intelligent systems**
+☁️ Interested in **Cloud, DevOps and scalable architectures**
+🔬 Researching **lightweight deepfake detection for low-resource devices**
 
 ---
 
-# 🚀 My Projects
+# 🚀 Featured Projects
 
-## 🤖 AI & Machine Learning Projects
+## 🤖 AI-Focused Projects
 
-### 🧠 Lightweight Image-Based Deepfake Detection
+### 🧠 Lightweight Deepfake Detection System
 
 **Lightweight Image-Based Deepfake Detection for Mobile and Low-Resource Devices**
 
-An undergraduate research project focused on developing a lightweight **image-based deepfake detection system** suitable for mobile and resource-constrained environments.
+A research-focused deepfake detection system designed to identify manipulated images while keeping the model **small, efficient, and suitable for resource-constrained environments**.
 
-The project investigates the balance between **detection performance and computational efficiency**.
+**Tech:** `Python` `TensorFlow` `Keras` `MobileNetV2` `TFLite` `Computer Vision`
 
-**Technologies:**
+**Highlights:**
 
-`Python` `TensorFlow` `Keras` `MobileNetV2` `Computer Vision` `TensorFlow Lite`
-
-**Research areas:**
-
-* Lightweight deepfake detection
-* Image-based deepfake classification
-* MobileNet-based architectures
-* Data augmentation
-* Cross-dataset evaluation
-* Model compression
-* INT8 quantization
-* TensorFlow Lite
-* FLOPs and model-size analysis
-* Mobile inference benchmarking
-* Frequency-domain feature exploration
+* 🧠 Image-based deepfake detection
+* 📱 Designed for mobile and low-resource devices
+* ⚡ Lightweight CNN architecture
+* 🗜️ Model compression and quantization
+* 📊 Cross-dataset evaluation
+* 🚀 TensorFlow Lite deployment
+* 📈 Accuracy, AUC, FLOPs and inference-time evaluation
+* 🔬 Frequency-domain feature experimentation
 
 ---
 
-### 🎯 Focused AI
+## 🤖 Focused-AI — AI-Powered Productivity Platform
 
-An AI-focused project exploring the development of an application around **artificial intelligence and intelligent user interaction**.
+An AI-powered **productivity and focus management platform** designed to help users organize tasks, maintain focus, and improve their productivity through intelligent features.
 
-The project represents my practical exploration of integrating AI capabilities into a software application.
+The project combines a modern user interface with AI-powered functionality to provide a more personalized and efficient productivity experience.
 
-**Focus:**
+**Tech:** `Next.js` `Express.js` `MongoDB` `LLM`
 
-`Artificial Intelligence` `Machine Learning` `AI Application Development`
+**Project Areas:**
+
+* 🤖 AI-powered productivity
+* 🎯 Focus and task management
+* 🧠 Intelligent AI features
+* 📊 Productivity tracking
+* 👤 User management
+* 🔐 Authentication
+* ⚙️ Backend API development
+* ☁️ Modern web application architecture
 
 ---
 
-# 🌐 Web & Full-Stack Projects
+---
 
-## 🛍️ Shopique — E-Commerce Website
+# 🌐 Full-Stack Projects
 
-A full-stack **e-commerce website** developed as an online shopping platform.
+## 🛒 Shopique — E-Commerce Website
 
-**Technologies:**
+A full-stack **e-commerce website** developed to provide an online shopping experience.
 
-`React` `Node.js` `Express.js` `MySQL`
+The project covers the development of a customer-facing shopping platform together with the supporting backend and database components.
 
-**Project areas:**
+**Tech:** `React` `Laravel` `MySQL` `JWT`
 
-* E-commerce
-* Product management
-* Customer-facing web application
-* Backend API development
-* Database integration
-* Online shopping workflow
+**Project Areas:**
+
+* 🛍️ E-commerce platform
+* 🛒 Online shopping
+* 📦 Product management
+* 👤 User management
+* 🔐 Authentication
+* 🗄️ Database integration
+* ⚙️ Backend API development
 
 ---
 
 ## 🍽️ Restaurant Queue Management System
 
-A software system designed to manage **restaurant customer queues** digitally.
+A digital queue management system designed to improve the way **restaurant customer queues are handled**.
 
-The project focuses on improving queue management and reducing the difficulties associated with traditional physical queues.
+The system focuses on replacing traditional queue handling with a digital workflow.
 
-**Technologies:**
+**Tech:** `React` `Springboot`  `MySQL`
 
-`React` `Node.js` `Express.js` `MySQL`
+**Project Areas:**
 
-**Project areas:**
-
-* Digital queue management
-* Customer management
-* Restaurant workflow
-* Queue monitoring
-* Web-based management system
+* 🎟️ Digital queue management
+* 👥 Customer queue handling
+* 📊 Queue status management
+* 🪑 Restaurant service workflow
+* 👨‍💼 Management interface
+* 📈 Queue monitoring
 
 ---
 
-## 🎓 Varppu Counseling System
+## 🌱 Varppu — Life Skill Development System
 
-A counseling management system developed for managing **counseling-related activities and workflows**.
+A multi-role **life skill development and training management platform** designed to support facilitators and participants through an organized digital learning workflow.
 
-**Project focus:**
+The system provides role-based access, training management, and participant-focused functionality, with a focus on reliability, security, and maintainable development practices.
 
-* Counseling management
-* User interaction
-* Information management
-* Web-based system development
+**Tech:** `Python` `Flask` `React.js` `MongoDB` `JWT` `PyTest`
 
+**Project Areas:**
+
+* 🌱 Life skill development
+* 👥 Facilitator and participant management
+* 📚 Training management
+* 🔐 JWT authentication & role-based access control
+* 📊 Participant and training tracking
+* 🧪 Automated testing with PyTest
+* 🔄 Agile development workflow
+
+---
 ---
 
 ## 🌐 Personal Portfolio Website
 
-My personal developer portfolio showcasing my **skills, projects, experience and technical interests**.
+My personal developer portfolio showcasing my **projects, technical skills, experience and professional profile**.
 
-🌐 **Portfolio:** https://itsbihari.vercel.app
+🌐 **Live:** https://itsbihari.vercel.app
 
-**Technologies:**
-
-`Web Development` `React` `JavaScript` `CSS`
-
-The portfolio serves as my online professional presence and project showcase.
+The portfolio acts as my personal online presence and provides an overview of my work in **software development and AI/ML**.
 
 ---
 
-# 🏢 Enterprise & University Systems
+## 🏢 MPMA OJT Scheduling System
 
-## 📅 MPMA OJT Scheduling System
+A comprehensive **On-the-Job Training (OJT) management platform** designed to streamline student placement, interview scheduling, training coordination, and administrative workflows.
 
-A scheduling system developed for managing **student OJT placement, interviews and scheduling workflows**.
+The system provides role-based access and automated scheduling functionality to simplify OJT management while improving efficiency, transparency, and maintainability.
 
-The system includes scheduling-related business logic for handling student and department requirements.
+**Tech:** `React.js` `Node.js` `MySQL` `REST API` `JWT`
 
-**Technologies:**
+**Project Areas:**
 
-`React` `Node.js` `Express.js` `MySQL` `JavaScript`
-
-**Project areas:**
-
-* Student OJT management
-* Interview scheduling
-* Department requirements
-* Automated scheduling
-* Scheduling engine
-* Schedule preview
-* Conflict-aware scheduling
-* Weekend and holiday considerations
+* 🎓 OJT student and trainee management
+* 🏢 Company and department management
+* 📅 Automated interview & OJT scheduling
+* 🧑‍💼 Interviewer and coordinator management
+* 🔐 JWT authentication & role-based access control
+* 📊 OJT placement and training tracking
+* ⚙️ Smart schedule generation with business rules
+* 📋 Interview, placement, and training workflows
+* 🔄 RESTful API-based system architecture
+* 🛠️ Administrative management & reporting
 
 ---
 
-## 💰 Lecturer Salary & Finance Management System
+## 🏢 Enterprise Resource Planning (ERP) System
 
-A financial workflow module for managing **lecturer salary preparation and organizational approval processes**.
+A comprehensive **Enterprise Resource Planning (ERP) platform** designed to centralize and streamline academic, financial, administrative, and operational workflows within an organization.
 
-**Technologies:**
+The system provides **role-based access, automated workflows, multi-level approval processes, resource management, student and lecturer administration, financial management, and operational services** through a unified platform.
 
-`React` `JavaScript` `Node.js` `MySQL`
+**Tech:** `React.js` `Node.js`  `MySQL` `REST API` `JWT`
 
-**Project areas:**
+**Project Areas:**
 
-* Lecturer salary preparation
-* Attendance-related workflows
-* Timetable and fee preparation
-* Approval sheet preparation
-* Accountant workflow
-* Multi-level approvals
-* Rejection and resubmission
-* Role-based access control
+* 🎓 Student registration and profile management
+* 👨‍🏫 Lecturer registration and management
+* 📚 Course and batch creation & management
+* 📝 Student enrollment and academic administration
+* 🏫 Classroom and academic resource management
+* 🏢 Auditorium booking and scheduling
+* 🚌 Transport booking and management
+* 💰 Financial and payment management
+* 👨‍💼 Lecturer salary preparation and processing
+* 📋 Multi-level financial approval workflows
+* 🧾 Course payment and cost management
+* 🕐 Biometric attendance and biometric data handling
+* 📊 Academic, financial, and administrative dashboards
+* 👥 Role-based user and access management
+* 🔐 JWT authentication & authorization
+* 🔄 Approval, rejection, and resubmission workflows
+* 📅 Resource booking and scheduling management
+* 📑 Student, lecturer, enrollment, and financial record tracking
+* ⚙️ Automated business-rule-based workflow processing
+* 🛠️ Centralized ERP administration and reporting
+* 🔗 RESTful API-based system architecture
+
 
 ---
 
-# 🌦️ Other Projects
+## 🏢 Port Asset Management System
 
-## 🌦️ Weather Application
+A comprehensive **Asset Management System** for managing organizational assets, ownership, transfers, maintenance, service requests, and departmental resources through a centralized platform.
 
-A web application built to retrieve and display weather information using a weather API.
+**Tech:** `Angular` `Node.js` `MySQL` `REST API` `JWT` `CI/CD`
 
-**Technologies:**
+**Project Areas:**
 
-`HTML` `CSS` `JavaScript` `REST API`
+* 🏷️ Asset registration & inventory management
+* 👥 User & role management
+* 🏢 Department management
+* 🔄 Asset transfer & ownership management
+* 🛠️ Maintenance & service requests
+* 📍 Asset location & status tracking
+* 📊 Asset dashboards & reporting
+* 🔐 JWT authentication & authorization
+* ⚙️ Workflow & business-rule management
+* 🔗 RESTful API architecture
+
 
 ---
 
@@ -225,102 +253,73 @@ A web application built to retrieve and display weather information using a weat
 
 ### 💻 Languages
 
-`JavaScript` `TypeScript` `Python` `Java` `PHP` `SQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,php,cpp,dart" />
+</p>
 
 ### 🌐 Frontend
 
-`React` `Next.js` `React Native` `HTML5` `CSS3`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,html,css,tailwind,bootstrap" />
+</p>
 
 ### ⚙️ Backend
 
-`Node.js` `Express.js` `Laravel` `Flask` `Spring Boot`
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flask,spring" />
+</p>
 
-### 🤖 AI / ML
+### 🤖 AI / Machine Learning
 
-`TensorFlow` `PyTorch` `Keras` `XGBoost` `SHAP` `OpenCV` `TensorFlow Lite`
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+`TensorFlow` · `PyTorch` · `Keras` · `XGBoost` · `SHAP` · `Computer Vision` · `TFLite`
 
 ### ☁️ Cloud & DevOps
 
-`AWS` `Docker` `Nginx` `Linux` `CI/CD` `GitOps`
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,github" />
+</p>
+
+`CI/CD` · `GitOps` · `REST APIs` · `Postman`
 
 ### 🗄️ Databases
 
-`MySQL` `MongoDB`
-
-### 🔧 Tools
-
-`Git` `GitHub` `Postman` `VS Code`
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
 
 ---
 
 # 🔬 Research
 
-## Lightweight Image-Based Deepfake Detection
+### Lightweight Image-Based Deepfake Detection
 
-My undergraduate research focuses on developing an efficient deepfake detection approach for **mobile and low-resource devices**.
+My undergraduate research focuses on developing an efficient deepfake detection approach for **mobile and low-resource environments**.
 
 The research explores:
 
 * Lightweight CNN architectures
-* MobileNet-based models
 * Data augmentation
-* Cross-dataset generalization
 * Model compression
 * Quantization
-* TensorFlow Lite deployment
+* TensorFlow Lite
+* Cross-dataset generalization
 * Computational efficiency
 * Mobile inference performance
 * Frequency-domain features
 
-The main objective is to investigate whether deepfake detection can be made more practical for environments with **limited memory and computational resources**.
-
----
-
-# 💼 Experience
-
-### 🏢 Software Developer Intern
-
-**Sri Lanka Ports Authority**
-
-Working on software systems involving full-stack development, business workflows, scheduling systems and enterprise applications.
-
----
-
-### 💻 Trainee Developer
-
-**Deviitor**
-
-Worked on software development involving Electron applications and Laravel REST APIs.
-
----
-
-# 🏆 Activities & Achievements
-
-### IEEE Computer Society — University of Jaffna
-
-**Secretary & Webmaster | 2025–2026**
-
-Contributed to technical activities and web-related initiatives within the university community.
-
-### 🏆 FuelAsia
-
-**Top 5 Team**
-
-### 🏆 Hack Like a Girl
-
-**Finalist**
-
-### ⚡ TECHXCELERATE
-
-Participated in a technology-focused competition/project.
+The goal is to investigate how deepfake detection can be made more practical for environments with **limited memory and computational resources**.
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bihari-Fernando&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bihari-Fernando&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bihari-Fernando&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bihari-Fernando&layout=compact&theme=transparent&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -328,34 +327,47 @@ Participated in a technology-focused competition/project.
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bihari-Fernando&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Bihari-Fernando&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bihari-Fernando&theme=github-compact&hide_border=true" />
 </p>
 
 ---
 
 # 🎯 Currently
 
-🔭 Building **full-stack applications and AI-powered solutions**
+🔭 Building **full-stack and AI-powered applications**
 
-🌱 Learning more about **AI/ML, Cloud, DevOps and System Design**
+🌱 Deepening my knowledge of **AI/ML, Cloud, DevOps and System Design**
 
 🔬 Working on **lightweight deepfake detection research**
 
-💻 Improving my software engineering skills through real-world development
+💻 Improving my software engineering skills through real-world projects
 
-🚀 Exploring practical applications of AI and modern software technologies
-
-🤝 Open to **software engineering, AI/ML opportunities and collaboration**
+🤝 Open to **internships, collaborations and interesting software projects**
 
 ---
 
 # 🤝 Let's Connect
 
+<p align="left">
+  <a href="https://github.com/Bihari-Fernando">
+    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  </a>
+  <a href="https://linkedin.com/in/biharifernando-567973262">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+</p>
+
 📧 **Email:** [biharifernando00@gmail.com](mailto:biharifernando00@gmail.com)
 
 🌐 **Portfolio:** https://itsbihari.vercel.app
-
-💼 **LinkedIn:** https://linkedin.com/in/bihari-fernando-567973262
 
 ✍️ **Blog:** http://wiredwhizz.blogspot.com
 
@@ -363,4 +375,10 @@ Participated in a technology-focused competition/project.
 
 ### ⚡ Fun Fact
 
-> I enjoy turning ideas into software that people can actually use. 🚀
+> I like turning ideas into applications that people can actually use. 🚀
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
